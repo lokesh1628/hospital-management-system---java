@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>HACKATHON</display-name>
+  <welcome-file-list>
+  <welcome-file>HACKATHON.html</welcome-file>
+    <welcome-file>Main.jsp</welcome-file>
+    <welcome-file>Dlogin.jsp</welcome-file>
+     <welcome-file>Dregister.jsp</welcome-file>
+    <welcome-file>Plogin.jsp</welcome-file>
+     <welcome-file>Pregister.jsp</welcome-file>
+    <welcome-file>Dwelcome.jsp</welcome-file>
+    <welcome-file>Pwelcome.jsp</welcome-file>
+    <welcome-file>Pre.html</welcome-file>
+  </welcome-file-list>
+</web-app>
